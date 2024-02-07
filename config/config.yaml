@@ -1,0 +1,9 @@
+database:
+  address: "localhost:5432"
+  user: "postgres_user"
+  password: "postgres_password"
+  dbname: "ewallet_db"
+
+server:
+  host: "localhost"
+  port: 8080
